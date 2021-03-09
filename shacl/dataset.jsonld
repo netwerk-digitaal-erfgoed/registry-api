@@ -144,6 +144,9 @@
           "sh:path": {
             "@id": "schema:license"
           },
+          "sh:nodeKind": {
+            "@id": "sh:IRI"
+          },
           "sh:minCount": 1
         },
         {
